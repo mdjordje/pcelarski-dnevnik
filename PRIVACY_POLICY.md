@@ -20,6 +20,6 @@ Moguće je da će našem timu programera biti dostavljene informacije o mobilnom
 
 Politika privatnosti se može ažurirati, a korisnik će biti obavešten o svakoj promeni.
 
-Ukoliko imate bilo kakvih pitanja, budite slobodni da nas kontaktirate na pcelinjak.rs@gmail.com.
+Ukoliko imate bilo kakvih pitanja, budite slobodni da nas kontaktirate na pcelarskidnevnik.rs@gmail.com.
 
 Nastavljanjem korišćenja aplikacije, korisnik prihvata navedenu politiku privatnosti.
